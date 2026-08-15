@@ -5,6 +5,8 @@ dist
 
 /src/generated/prisma
 
+# AI specific stuff
 .agents/
 .claude/
 .windsurf/
+skills-lock.json
